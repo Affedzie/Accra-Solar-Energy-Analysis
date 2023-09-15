@@ -46,7 +46,7 @@ git clone https://github.com/Affedzie/Rooftop-Solar-Energy-Analysis.git
 
 ```
 
-## Install Dependencies
+### Install Dependencies
 
 Ensure you have the necessary Python libraries installed. You can install them using pip:
 ```bash
