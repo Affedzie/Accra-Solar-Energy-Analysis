@@ -42,4 +42,9 @@ To make the most of this project, follow these steps:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Affedzie/Rooftop-Solar-Energy-Analysis.git
+git clone https://github.com/Affedzie/Rooftop-Solar-Energy-Analysis.git 
+
+```
+###Install Dependencies
+Ensure you have the necessary Python libraries installed. You can install them using pip:
+pip install pandas matplotlib seabor
